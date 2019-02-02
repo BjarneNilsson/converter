@@ -1,0 +1,14 @@
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\bin\Debug\Demention converter.exe.config
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\bin\Debug\Demention converter.exe
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\bin\Debug\Demention converter.pdb
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\Debug\Demention converter.csprojAssemblyReference.cache
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\Debug\Demention_converter.Form1.resources
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\Debug\Demention_converter.Properties.Resources.resources
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\Debug\Demention converter.csproj.GenerateResource.cache
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\Debug\Demention converter.csproj.CoreCompileInputs.cache
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\Debug\Demention converter.exe
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\Debug\Demention converter.pdb
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\bin\Debug\Demention converter.exe.manifest
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\bin\Debug\Demention converter.application
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\Debug\Demention converter.exe.manifest
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\Debug\Demention converter.application

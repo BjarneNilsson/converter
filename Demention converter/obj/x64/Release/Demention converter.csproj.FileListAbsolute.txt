@@ -1,0 +1,13 @@
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\bin\x64\Release\Demention converter.exe.config
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\bin\x64\Release\Demention converter.exe.manifest
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\bin\x64\Release\Demention converter.application
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\bin\x64\Release\Demention converter.exe
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\bin\x64\Release\Demention converter.pdb
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\x64\Release\Demention_converter.Form1.resources
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\x64\Release\Demention_converter.Properties.Resources.resources
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\x64\Release\Demention converter.csproj.GenerateResource.cache
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\x64\Release\Demention converter.csproj.CoreCompileInputs.cache
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\x64\Release\Demention converter.exe.manifest
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\x64\Release\Demention converter.application
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\x64\Release\Demention converter.exe
+C:\Users\bjarn\source\repos\Demention converter\Demention converter\obj\x64\Release\Demention converter.pdb
