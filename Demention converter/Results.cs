@@ -8,6 +8,7 @@ namespace Demention_converter
 {
     public struct CResults
     {
+        //comment
         public double W177 { get; set; }
         public double H177 { get; set; }
         public double D177 { get; set; }
